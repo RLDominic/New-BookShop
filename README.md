@@ -202,3 +202,4 @@ cd tu-ruta-para-guardar
 ## Prototipo Figma.
 
 Puedes ver el prototipo del proyecto en el siguiente enlace: [Prototipo en Figma](https://www.figma.com/design/4piwD2vqzGn5GImrYIWZLX/Prototype_STORE_BOOKS?node-id=0-1&t=oBTOUTDcwsMn4Kn8-1)
+ 
