@@ -1,11 +1,8 @@
 # <h1 align="center">STORE_BOOKS_FINAL_PROJECT</h1>
 
-<h1>Integrantes:</h1>
+<h1>Integrante:</h1>
 
-- <h4>Miguel Macia Medina</h4>
-- <h4>Jesus Eduardo Velez Ramos</h4>
-- <h4>Miguel angel Hernández Padilla</h4>
-- <h4>Jesús David Correa Monroy</h4>
+- <h4>Dominic Ruiz Luna</h4>
 
 # Manual de Usuario
 
@@ -139,7 +136,7 @@ Acontinuación tenemos la explicación o la demostración de de la solucion en e
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/JesusCm26/Proyecto_STORE_BOOKS.git
+git clone https://github.com/RLDominic/New-BookShop.git
 cd tu-ruta-para-guardar
 ```
 
