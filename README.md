@@ -2,7 +2,7 @@
 
 <h1>Integrante:</h1>
 
-- <h4>Dominic Ruiz Luna</h4>
+- <h4>Dominic Andrés Ruiz Luna</h4>
 
 # Manual de Usuario
 
