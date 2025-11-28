@@ -1,4 +1,4 @@
-# <h1 align="center">STORE_BOOKS_FINAL_PROJECT</h1>
+# <h1 align="center">New-BookShop</h1>
 
 <h1>Integrante:</h1>
 
