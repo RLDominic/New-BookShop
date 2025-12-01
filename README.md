@@ -54,7 +54,7 @@ Favoritos:
 
 En este aoartadio podrás ver más información sobre el libro que deseas adquirir así como la opcion de enviarlo al apartado de favoritos o al panel del carrito, incluso comprarlo al instante.
 
-![image](https://github.com/RLDominic/New-BookShop/blob/main/src%2FImages%2F2.png)
+![image](https://github.com/user-attachments/assets/481a281a-d812-4ddd-b6eb-8a5b15246aca)
 
 ### Apartado de Pagos
 
