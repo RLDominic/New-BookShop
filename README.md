@@ -15,7 +15,7 @@ Este repositorio contiene un proyecto para gestionar libros favoritos y un carri
 
 En la siguiente vista se podrá apreciar lo que sería el login, se debe llenar los campos para iniciar la sesión, en caso de que no tenga un usuario registrado puede dirigirse hasta el apartado de registro, si preciona el botón "Registrarse" que se encuentra ubicada el la parte media de la pantalla después del botón iniciar sesión ( Login ): ![image](https://github.com/user-attachments/assets/479fd921-c8b8-44ac-bba4-7145be268558)
 
-![image]([https://github.com/user-attachments/assets/756d6f29-4eff-4d16-b2d8-8632c95d74d5])
+![image][https://github.com/user-attachments/assets/756d6f29-4eff-4d16-b2d8-8632c95d74d5)
 
 ### Apartado de registro(Crea tu usuario).
 
