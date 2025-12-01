@@ -27,7 +27,7 @@ En esta vista te encontrarás con los campos correspondientes para la creacion d
 
 Esta es la vista donde el usuario podrá ingresar despues de llenar sus datos de incio, tendrá una variedad de opciones muy buena esto relacionado con la compra de libros muy reconocidos y a buenos precios.
 
-![image](https://github.com/user-attachments/assets/81260249-1f46-4b42-ad06-6bf3a548d619)
+![image](https://github.com/RLDominic/New-BookShop/blob/main/src%2FImages%2F2.png)
 
 
 ### Apartado del carrito.
