@@ -21,7 +21,7 @@ En la siguiente vista se podrá apreciar lo que sería el login, se debe llenar 
 
 En esta vista te encontrarás con los campos correspondientes para la creacion de un nuevo usuario para el programa, debes asegurarte de que los datos estén ubicados correctamente y que el dato realmente corresponda a la información solicitada para que no ocurranigún error a la hora de crear el usuario.
 
-![image](https://github.com/user-attachments/assets/cb81e0f6-4de6-49f3-be32-ce9966a67568)
+![image]([https://github.com/user-attachments/assets/cb81e0f6-4de6-49f3-be32-ce9966a67568](https://github.com/RLDominic/New-BookShop/blob/main/src/Images/1.png?raw=true))
 
 ### Vista Principal(Catalogo de libros).
 
